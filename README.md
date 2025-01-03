@@ -1,6 +1,6 @@
 # Web Scraper com Selenium e Pandas
 
-Este projeto consiste em um script Python que utiliza Selenium, BeautifulSoup, e Pandas para extrair dados de uma página da web, formatá-los como um DataFrame, e processá-los. O exemplo específico se conecta ao site Betway para coletar informações sobre times e suas probabilidades de aposta em partidas de futebol.
+Este projeto consiste em um script Python que utiliza Selenium, BeautifulSoup, e Pandas para extrair dados de uma página da web, formatá-los como um DataFrame, e processá-los. O exemplo específico se conecta ao site 22BET para coletar informações sobre times e suas probabilidades de aposta em partidas de futebol.
 
 ## Funcionalidades
 
